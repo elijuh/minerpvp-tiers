@@ -1,0 +1,10 @@
+name: 'MinerPvP'
+author: 'elijuh'
+version: ${project.version}
+main: 'dev.elijuh.minerpvp.Core'
+depend:
+  - 'LuckPerms'
+  - 'ProtocolLib'
+  - 'PlaceholderAPI'
+  - 'DecentHolograms'
+  - 'Votifier'
